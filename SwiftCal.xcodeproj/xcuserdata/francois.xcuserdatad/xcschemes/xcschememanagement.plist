@@ -7,7 +7,25 @@
 		<key>SwiftCal.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SwiftCalWidgetExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0F5EA2B62BF2581F000D8154</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0F7E403F2BF2403600947CE7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
